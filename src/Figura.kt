@@ -1,4 +1,4 @@
 abstract class Figura {
-    abstract fun area()
-    abstract fun perimetro()
+    abstract fun area() : String
+    abstract fun perimetro(): String
 }
